@@ -1,5 +1,4 @@
-fun fact: my first programming lanaguage was lua
-\n
+fun fact: my first programming lanaguage was lua  
 goals: contribute to kubernetes
 
 <!---
